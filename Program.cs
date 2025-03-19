@@ -21,7 +21,7 @@ namespace TelegramBotForLesson
     //регистрация пользователя, запрос списка всех позиций БД
     class Program
     {
-        const string TOKEN = "7169505210:AAEBnzeSX666BGha_gG3O3l0VaU3zogdCQI";
+        const string TOKEN = "TOKEN";
         const string connectionString = "Server=localhost\\SQLEXPRESS;Database=DB;Trusted_Connection=True;TrustServerCertificate=True;";
 
 
